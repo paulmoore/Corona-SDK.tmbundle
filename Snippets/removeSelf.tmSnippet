@@ -3,14 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>display.newCircle(${1:xCenter}, ${2:yCenter}, ${3:radius})</string>
+	<string>${1:object}:removeSelf()
+${1:object} = nil</string>
 	<key>name</key>
-	<string>display.newCircle</string>
+	<string>removeSelf</string>
 	<key>scope</key>
 	<string>source.lua</string>
 	<key>tabTrigger</key>
-	<string>display.newCircle</string>
+	<string>rem</string>
 	<key>uuid</key>
-	<string>25495BEF-4928-42D3-BBB4-D0C56936B9DD</string>
+	<string>E4FC18D9-8DCF-4F69-8910-EBF0CFDC2425</string>
 </dict>
 </plist>
